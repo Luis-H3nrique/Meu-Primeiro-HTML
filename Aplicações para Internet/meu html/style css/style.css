@@ -1,0 +1,134 @@
+style{
+    margin-bottom: 30px;
+}
+
+header {
+    background-color: black;
+    padding: 10px 0;
+}
+
+h1 {
+    color: orangered;
+    text-align: center;
+}
+
+h2 {
+    color: aliceblue;
+    text-align: center;
+}
+
+nav {
+    background-color: black;
+    display: flex;
+    list-style: none;
+}
+
+.p1 {
+    margin-top: 15px;
+}
+
+.tb1 {
+    background-color: brown;
+    width: 50%;
+}
+
+table {
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(255, 255, 255);
+    border = "3"
+}
+
+.l1 {
+    width: 50% ;
+    height : auto;
+    background-color: orange;
+    type: A;
+    text-align: center;
+
+}
+
+
+.ll1 {
+    color: black;
+    border-color: black;
+    text-align: center;
+}
+
+.l2 {
+    display: flex;
+    height: 200px;
+    margin-top: 30px;
+}
+
+.a1 {
+    background-color: red;
+    width: 33.33%;
+    text-align: center;
+    color: white;
+}
+
+.a2 {
+    background-color: maroon;
+    width: 33.33%;
+    color: white;
+}
+
+.a3 {
+    background-color: rgb(134, 20, 43);
+    width: 33.33%;
+    text-align: center;
+    color: white;
+}
+
+.rodape {
+    margin-top: 30px;
+    padding: auto;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+}
+
+.r1 {
+    display: grid;
+    grid-template-columns: auto;
+    background-color: antiquewhite;
+    width: 25%;
+}
+
+.r2 {
+    display: grid;
+    grid-template-columns: auto;
+    background-color: grey;
+    width: 25%;
+}
+
+.rr2 {
+    font-size: 30px;
+}
+
+.r3 {
+    background-color: antiquewhite;
+    width: 25%;
+}
+
+.rr3 {
+    font-size: 30px;
+}
+
+.r4 {
+    background-color: grey;
+    width: 25%;
+}
+
+.rr4 {
+    font-size: 30px;
+}
+
+.ul1 {
+    list-style: none;
+    justify-content: space-between;
+}
+
+.t1 {
+    font-size: 30px;
+}
